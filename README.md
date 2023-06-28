@@ -22,6 +22,8 @@ Clone the repository:
 5. Install the required dependencies:
   npm install
 
+6. Create a new folder named "audio" in your backend source directory ("./Transoplanet_TranslateProject/translation-app-backend").
+
 ## Configuration
 Before using the Transoplanet Translate Project, you need to configure your Google API credentials. Follow these steps:
 1. Go to the Google-API's website ([https://www.transoplanet.com](https://console.cloud.google.com/)) and sign up for an account.
