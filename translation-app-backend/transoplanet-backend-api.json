@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "transoplanet-backend",
+  "private_key_id": "fc65e1e3491cab1d35dc983547f200579e4dabd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4s0ilIwpUI/gv\n1JvB3qui+fbE1rDz555Rr5dkhAhYLadMbkCQKARipW7iI1QAMVavVsvjAe3vPhdF\nnQQDA7mkxKPYfoU+5kQNajalDtYHuCfpP7AjTCdvELYQ0jBOWfSxj0lYxu6mjLyE\n3L99egvPl2huOB5kF91Cu209VetdqU7g80cQKYzisZbAxA2L91Mm29w3M2vGWti6\nou8S6zhSlDvIXKkcTGHI99Q4FJb0SQT1NNjezYIrdfWCtRFkfINlLwzYwoZbneMx\nThbC/8baHeTyts0P6I+CMD7qN6Rf0spp0TgW48NMgcFZm7wStaTy0TQ4Izt4tvgB\n1O1hL5OxAgMBAAECggEAFCYQDrO732HtI9/1qI3kphV5WLpy+KiTxNAlm87WJN3A\nxRMMnVfq4o1Zg0yHUAi8hB7b2cUkHQKRAgRsTkfhwJpoT/29W2yTOpi+TVNJAJ6T\nprD5Q2B+DMet6jfZEohjATENt07m9JRLHH4DBb/X+gAdDFO4PQMSyBeE2zlm663q\ne4Hbn7EP1tkeMdvACq8v3H6JdtBG6Jhsw2n9wI5NSPT5VIc1UOh61yx3wIbbyCL8\n6iFfkr0stQ7JnYTRmFsUWzVFV8jI2X7DecZy4qhrWMAq1PyKdDQRoVNc76JBnnoY\nO4juRwWAQQI2bkt7U5t/BkqqELZk+ckiqrwJyvjNYQKBgQDeIsjlpKaGMigxs7r8\nvbog70NQGv7DxKOY9ExsTwZjlXVEoN92d7NSGAKZm3YC3dUM7OQ8mGuzEvhUSUiW\nLrbX8Yv3fX1b7VLUC/RfjjM2y68xdRwVfWL2KiJDUA3sodifp+H5UGywNvvooFBt\n5lHcW8XfuPuT9BLrjRD9EUTxFwKBgQDU24P6bgSF4ZUmZohIDZMLCAFej/gCHW5L\n3A7anggMJcn+7i1+7sZIhK1FOROWIQAnTl40PPMo3me3IKc8xHP0j3X+cx0J4jpc\nqW9qTL5PqApPzxO4Bew6tuKZPTASC9te+mvKYOxDQ0SmMXGJmUluMg3lOqynm28u\nNyCW+NXOdwKBgG4+GzAFJ/Pfvpz0Eu/OBSrFM8X0r81esMZ/L9Js4cHYceuOX3i+\n7UrnyZqMUeQYTdztUFRWXNTxrDbAa/rE0k+XfBxmtilCPeIo0K3/t6ERMzA7a6Wq\npct/m6OGfnKa3BRYUEjYRiiqERkhPulb7fKLxUdD2e9SqXUnfG/r+ygfAoGAPuOY\ni84jkfbDXXQfwcIY9sJnvSumJ+HQK6OZ0+erEwO7OZHfaUhc1yI0G2awrcOUSwix\ndpendCS52fZQ0vhsFg6o2wPhyYDIo4YAABUqiVhpq4jQF6fQUsykCIh2gm50Ywxz\n+nhGdd0TFFM5a2EZu/AYAOkkB+U5pRruiwx8ByMCgYBnObSe+S2vynJMcs6l6aXU\nFrNGvgvyF0hawTMLOHdiX5wT8eVWh2rcbZ2M5VJlpMDU7pAys9v85wJfZz43ntxc\n4mbTPZbCBOuEFc6qXuwMo2LYduILcrm2fCCeyf2vac4ePYciqAezNq9XphNGJBec\nw+Y6/XELDI+nqUQwfqPCfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ckuseapi@transoplanet-backend.iam.gserviceaccount.com",
+  "client_id": "101075971300747595163",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ckuseapi%40transoplanet-backend.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
